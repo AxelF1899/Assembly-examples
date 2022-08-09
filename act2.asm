@@ -1,4 +1,5 @@
 ﻿.MODEL small
+ ;09/08/2022
 .CODE
 INICIO:
 	MOV AX,@DATA
