@@ -1,0 +1,7 @@
+1.- Generar el código en lenguaje ensamblador (act2.asm).
+2.- Guardar con la extensión .ASM y con la configuración de UTF-8.
+3.- Despues de instalar el emulador de TASM, debe compilarse el archivo con el comando =>> tasm nombreDelArchivo.asm
+4.- Usar el comando tlink con el programa objeto generado anteriormente de la forma =>> tlink nombreDelArchivo.obj
+5.- Ejecutar el programa escribiendo el nombre del archivo sin ninguna extensión =>> nombreDelArchivo
+
+Nota: el nombre del archivo debe ser lo más corto posible.
