@@ -1,4 +1,4 @@
-;programa Hola mundo
+;programa Hola mundo 08/08/2022
 DATOS SEGMENT
 	MENSAJE DB "HOLA MUNDO$"
 DATOS ENDS
